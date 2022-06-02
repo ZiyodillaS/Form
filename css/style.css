@@ -155,7 +155,7 @@ color: #555555
 .course-btn{
     width: 450px;
     margin-top: 32px;
-    margin-bottom: 8px;
+    /* margin-bottom: 8px; */
     padding: 20px 129px;
     border-color: transparent;
 background: #655AF2;
